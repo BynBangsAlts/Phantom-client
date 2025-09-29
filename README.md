@@ -1,3 +1,6 @@
-creds
-cracking - me
-jar - shrmpee 
+creds :
+
+cracking : me
+
+jar : shrmpee 
+
